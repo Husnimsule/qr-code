@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: hsl(220, 15%, 55%);
+     text-align: center;
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin: 2% 35%;
+    width: 30%;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+.img{
+    width: 95%;
+    border-radius: 10px;
+}
+h3{
+    margin-top: 7%;
+}
+p{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 5%;
+    color: hsl(220, 15%, 55%);
+}
